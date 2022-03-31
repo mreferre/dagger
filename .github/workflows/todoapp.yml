@@ -10,7 +10,7 @@ on:
 env:
   # This needs to be unique across all of netlify.app
   APP_NAME: todoapp-dagger-europa
-  NETLIFY_TEAM: massimo
+  NETLIFY_TEAM: massimo-x3pwgfa
   # Get one from https://app.netlify.com/user/applications/personal
   NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
   # GitHub Actions friendly logs
