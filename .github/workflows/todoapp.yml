@@ -9,7 +9,7 @@ on:
 # Dagger plan gets configured via client environment variables
 env:
   # This needs to be unique across all of netlify.app
-  APP_NAME: todoapp-dagger-europa
+  APP_NAME: todoapp-dagger-massimo
   NETLIFY_TEAM: massimo-x3pwgfa
   # Get one from https://app.netlify.com/user/applications/personal
   NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
